@@ -1,2 +1,2 @@
 # Sorted-python-l-gica
-Esse código faz a mesma coisa que o "Sorted" no python, mas eu criei para mostrar como ele funciona
+Esse código faz os numeros de uma lista ficar em ordem decrescente no python, isso mostra como o "sorted(valores_lista, reverse=True)" funciona
